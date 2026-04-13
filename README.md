@@ -26,9 +26,9 @@ Tenho conhecimento em testes manuais, redes e resolução de problemas técnicos
 
 ## 📂 Projetos
 
-🔹 [Projeto QA - Teste de Login](https://github.com/SEU-USUARIO/qa-login-test)  
-🔹 [Projeto Redes - Configuração de Rede](https://github.com/SEU-USUARIO/rede-domestica)  
-🔹 [Testes de API com Postman](https://github.com/SEU-USUARIO/api-tests)  
+🔹 [Projeto QA - Teste de Login](https://github.com/PedroPiresPiornedo/qa-login-test)  
+🔹 [Projeto Redes - Configuração de Rede](https://github.com/PedroPiresPiornedo/rede-domestica)  
+🔹 [Testes de API com Postman](https://github.com/PedroPiresPiornedo/api-tests)  
 
 ---
 
@@ -49,3 +49,5 @@ Conseguir uma oportunidade na área de TI como:
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroPiresPiornedo&show_icons=true&theme=dark)
